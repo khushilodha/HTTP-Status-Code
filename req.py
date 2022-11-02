@@ -37,5 +37,5 @@ except Exception as e:
 # if arg.request == 'https://www.wikipedia.org':
 #     print(r.status_code)
 # else:
-#     print('Invalid URL')
+#     print('Invalid URL'
 
